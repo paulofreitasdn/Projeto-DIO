@@ -1,3 +1,5 @@
 # Projeto-DIO
-Foi uma experiência interessante, pois me permitiu entender melhor como funciona o controle de versão 
-e como o Github é uma ferramenta poderosa para compartilhar código e colaborar com outros desenvolvedores.
+
+Desafio de Projeto Concluído! 
+
+Precisei criar um repositório local e colocá-lo no Github. Foi uma experiência interessante, pois me permitiu entender melhor como funciona o controle de versão e como o Github é uma ferramenta poderosa para compartilhar código e colaborar com outros desenvolvedores.
